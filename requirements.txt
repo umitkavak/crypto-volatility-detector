@@ -1,0 +1,11 @@
+Flask
+requests
+numpy
+pandas
+psycopg2-binary
+SQLAlchemy
+tweepy
+praw
+scikit-learn
+nltk
+sockets
